@@ -192,7 +192,7 @@ flutter run
 
 ## 👩‍🎓 Author
 
-**Name:** Mounika Baddula
-**Roll No:** 24AG1A05W4
-**College:** ACE Engineering College
-**Subject:** UI Flutter
+- **Name:** Mounika Baddula
+- **Roll No:** 24AG1A05W4
+- **College:** ACE Engineering College
+- **Subject:** UI Flutter
