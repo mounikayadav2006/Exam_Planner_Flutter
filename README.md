@@ -192,7 +192,7 @@ flutter run
 
 ## 👩‍🎓 Author
 
-**Name:** _your name_
-**Roll No:** _your roll number_
-**College:** _your college_
-**Subject:** Flutter / Mobile App Development Lab
+**Name:** Mounika Baddula
+**Roll No:** 24AG1A05W4
+**College:** ACE Engineering College
+**Subject:** UI Flutter
